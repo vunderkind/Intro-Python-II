@@ -8,3 +8,7 @@ class Room:
 
     def __str__(self):
         return f'Welcome to the {self.name}. {self.description}'
+
+
+# room1 = Room('Bourdillon', 'Room of wonder')
+# print(room1)

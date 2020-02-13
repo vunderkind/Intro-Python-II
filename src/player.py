@@ -13,5 +13,5 @@ class Player:
             return f'Player is now in room {self.current_room}.'
 
 
-player1 = Player()
-print(player1)
+# player1 = Player()
+# print(player1)
