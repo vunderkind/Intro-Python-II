@@ -61,6 +61,7 @@ new_player = Player(name, initial_room)
 #
 # If the user enters "q", quit the game.
 print(f'Hello {new_player.name}')
+print('You are lost in the jungle in search of rare treasures. Three days ago, you and your team lost contact on all your communication devices. A monster wakes up at night and feasts on your colleagues. You are the lone survivor here. The only man alive on Nightmare Jungle.')
 print(f'{new_player.current_room}')
 
 while True:
